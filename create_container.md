@@ -1,3 +1,9 @@
+- **View all images**
+
+    `docker images`
+
+    `docker image ls`
+
 - **Remove the container**
 
     `docker rm my_ubuntu_container` 
